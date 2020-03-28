@@ -1,2 +1,2 @@
-# prospero.78.su-gmail.com
+# goTk -- графика Tk для Go
 goTk -- библиотека для Go
